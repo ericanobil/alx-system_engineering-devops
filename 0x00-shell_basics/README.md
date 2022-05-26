@@ -1,1 +1,1 @@
- Create shell Readme
+Just created the current directory
